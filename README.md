@@ -1,2 +1,2 @@
-# solvingSudoku
-Solving a sudoku with CSP
+# Sudoku
+KI1 - Lab03
